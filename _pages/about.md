@@ -19,7 +19,7 @@ My research explores trait trade-offs in cassava (_Manihot esculenta_) breeding.
 
 Publications
 ------
-  *“Sexual dimorphism and the effect of wild
+“Sexual dimorphism and the effect of wild
 introgressions on recombination in cassava (Manihot esculenta Crantz) breeding germplasm.” 
 Chan, A.W., **Villwock, S.S.**, Williams, A.L., and Jannink, J.L.  G3
 Genes|Genomes|Genetics, Volume 12, Issue 1, January 2022, doi:10.1093/g3journal/jkab372.
