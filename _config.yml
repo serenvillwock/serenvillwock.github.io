@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Seren Villwock"
-  avatar           : "headshot22.jpg"
+  avatar           : "profile_pic_cropped.jpeg" #Or: "headshot22.jpg"
   bio              : "PhD student in Plant Breeding & Genetics"
   location         : "Ithaca, NY, USA"
   employer         : "Cornell University"
