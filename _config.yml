@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Seren Villwock"
 title_separator          : "-"
 name                     : &name "Seren Villwock"
-description              : &description "PhD student at Cornell University"
+description              : &description "PhD candidate at Cornell University"
 url                      : https://serenvillwock.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "serenvillwock/academicpages.github.io"
@@ -85,7 +85,7 @@ author:
   bio              : "PhD student in Plant Breeding & Genetics"
   location         : "Ithaca, NY, USA"
   employer         : "Cornell University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=seren+villwock"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=seren+villwock"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/seren-villwock/"
   orcid            : "https://orcid.org/0000-0003-4137-2698"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SerenVillwock"
+  twitter          : #"SerenVillwock"
   vine             :
   weibo            :
   xing             :
