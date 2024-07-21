@@ -19,4 +19,4 @@ My research explores trait trade-offs in cassava (_Manihot esculenta_) breeding.
 
 Contact me
 ------
-You can connect with me on [LinkedIn] (https://www.linkedin.com/in/seren-villwock/) or reach me via email at [ssv42@cornell.edu] (mailto:ssv42&commat;cornell.edu).
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/seren-villwock/) or reach me via email at [ssv42@cornell.edu](mailto:ssv42&commat;cornell.edu).
