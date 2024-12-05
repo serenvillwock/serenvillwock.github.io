@@ -11,7 +11,7 @@ redirect_from:
 
 Hello!
 ------
-I am a PhD candidate at [Cornell University](https://cals.cornell.edu/seren-villwock) in Dr. Jean-luc Jannink's research group. I draw on an interdisciplinary background to conduct research at the intersection of foundational plant science and applied breeding. My long-term goal is to contribute to the enrichment of crop plants with health-promoting compounds. My anticipated graduation is summer 2025.
+I am a PhD candidate at [Cornell University](https://cals.cornell.edu/seren-villwock) in Dr. Jean-Luc Jannink's research group. I draw on an interdisciplinary background to conduct research at the intersection of foundational plant science and applied breeding. My long-term goal is to contribute to the enrichment of crop plants with health-promoting compounds. My anticipated graduation is summer 2025.
 
 Research
 ------
