@@ -28,5 +28,11 @@ My PhD research explored trait trade-offs in cassava (_Manihot esculenta_) breed
 using both quantitative and molecular genetics methods to understand: 
 
 - The biological basis of the relationship between carotenoid content and dry matter content in provitamin A biofortified yellow cassava
-- The effects of an introgression from the wild relative _Manihot glaziovii_ on yield and fitness.
-I was fortunate to collaborate with the cassava breeding team at the International Institute of Tropical Agriculture, Ibadan, Nigeria for this work.
+- The effects of an introgression from the wild relative _Manihot glaziovii_ on yield and fitness, in collaboration with the cassava breeding team at the International Institute of Tropical Agriculture, Ibadan, Nigeria
+
+
+Seminar recordings
+------
+
+- [PhD Exit Seminar](https://www.youtube.com/watch?v=nYF1OByTISQ&t=2242s)
+- [Understanding New Plant Varieties with Cornell Cooperative Extension](https://www.youtube.com/watch?v=5u3pV5Sjnfk)
