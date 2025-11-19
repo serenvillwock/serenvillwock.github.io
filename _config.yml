@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr. Seren St. Clair Villwock"
   avatar           : "profile_pic_cropped.jpeg" #Or: "headshot22.jpg"
-  bio              : "Postdoctoral researcher, Plant Breeding & Genetics"
-  location         : "Breinigsville, PA, USA"
+  bio              : "Postdoctoral researcher in plant breeding & genetics"
+  location         : 
   employer         : "Cornell University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=seren+villwock"
   googlescholar    : 
