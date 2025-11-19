@@ -37,5 +37,5 @@ using both quantitative and molecular genetics methods to understand:
 Seminar recordings
 ------
 
-- [PhD Exit Seminar](https://www.youtube.com/watch?v=nYF1OByTISQ&t=2242s)
-- [Understanding New Plant Varieties with Cornell Cooperative Extension](https://www.youtube.com/watch?v=5u3pV5Sjnfk)
+- [Investigating the genetic basis of trade-offs in cassava breeding for improved provitamin A content and dry yield](https://www.youtube.com/watch?v=nYF1OByTISQ&t=2242s)
+- [Understanding new plant varieties with Cornell Cooperative Extension Master Gardeners program](https://www.youtube.com/watch?v=5u3pV5Sjnfk)
