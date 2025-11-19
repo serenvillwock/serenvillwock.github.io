@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Seren Villwock"
 title_separator          : "-"
 name                     : &name "Seren Villwock"
-description              : &description "PhD candidate at Cornell University"
+description              : &description "Postdoctoral researcher at Cornell University"
 url                      : https://serenvillwock.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "serenvillwock/academicpages.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seren Villwock"
+  name             : "Dr. Seren St. Clair Villwock"
   avatar           : "profile_pic_cropped.jpeg" #Or: "headshot22.jpg"
-  bio              : "PhD candidate in Plant Breeding & Genetics"
-  location         : "Ithaca, NY, USA"
+  bio              : "Postdoctoral researcher, Plant Breeding & Genetics"
+  location         : "Breinigsville, PA, USA"
   employer         : "Cornell University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=seren+villwock"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"serenvillwock"
+  github           : "serenvillwock"
   google_plus      :
   keybase          :
   instagram        :
