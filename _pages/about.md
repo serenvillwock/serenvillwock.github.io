@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello!
+About me
 ------
 I am a postdoctoral associate at [Cornell University](https://www.biotech.cornell.edu/about-us/people/58) in the Institute of Biotechnology's Bioinformatics Facility. 
 I currently work on the [_VitisxMuscadinia_](https://vxm.uada.edu/) grape hybrid breeding project genetics team with Dr. Qi Sun. 
@@ -30,7 +30,3 @@ using both quantitative and molecular genetics methods to understand:
 - The biological basis of the relationship between carotenoid content and dry matter content in provitamin A biofortified yellow cassava
 - The effects of an introgression from the wild relative _Manihot glaziovii_ on yield and fitness.
 I was fortunate to collaborate with the cassava breeding team at the International Institute of Tropical Agriculture, Ibadan, Nigeria for this work.
-
-Contact me
-------
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/seren-villwock/) or reach me via email at [ssv42@cornell.edu](mailto:ssv42&commat;cornell.edu).
