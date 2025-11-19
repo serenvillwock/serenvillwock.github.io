@@ -17,6 +17,9 @@ I received my PhD in Plant Breeding & Genetics from Cornell in 2025, advised by 
 
 Research interests
 ------
+Quantitative genetics and genomics  |  Nutritional quality  |  Plant breeding  |  Wild relatives  |  Bioinformatics
+
+
 My current research with the [VxM project](https://vxm.uada.edu/) involves:
 
 - Inferring _Vitis_ ancestry in interspecific hybrid genomes using a Hidden Markov Model
