@@ -1,21 +1,35 @@
 ---
+title: ''
 permalink: /
-title: ""
-excerpt: "About me"
+excerpt: About me
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+- /about/
+- /about.html
 ---
 
 
 Hello!
 ------
-I am a PhD candidate at [Cornell University](https://cals.cornell.edu/seren-villwock) in Dr. Jean-Luc Jannink's research group. I draw on an interdisciplinary background to conduct research at the intersection of foundational plant science and applied breeding. My long-term goal is to contribute to the enrichment of crop plants with health-promoting compounds. My anticipated graduation is summer 2025.
+I am a postdoctoral associate at [Cornell University](https://www.biotech.cornell.edu/about-us/people/58) in the Institute of Biotechnology's Bioinformatics Facility. 
+I currently work on the [_VitisxMuscadinia_](https://vxm.uada.edu/) grape hybrid breeding project genetics team with Dr. Qi Sun. 
+I received my PhD in Plant Breeding & Genetics from Cornell in 2025, advised by Dr. Jean-Luc Jannink.
 
-Research
+Research interests
 ------
-My research explores trait trade-offs in cassava (_Manihot esculenta_) breeding. I am using both quantitative and molecular genetics methods to understand 1) the relationship between carotenoid content and dry matter content in provitamin A biofortified yellow cassava, and 2) the effects of an introgression from the wild relative _Manihot glaziovii_ on yield and fitness. I collaborate with the cassava breeding team at the International Institute of Tropical Agriculture, Ibadan, Nigeria.
+My current research with the [VxM project](https://vxm.uada.edu/) involves:
+
+- Inferring _Vitis_ ancestry in interspecific hybrid genomes using a Hidden Markov Model
+- Using amplicon-based microhaplotype marker panels
+- Assembling new _Muscadinia rotundifolia_ genomes
+
+
+My PhD research explored trait trade-offs in cassava (_Manihot esculenta_) breeding,
+using both quantitative and molecular genetics methods to understand: 
+
+- The biological basis of the relationship between carotenoid content and dry matter content in provitamin A biofortified yellow cassava
+- The effects of an introgression from the wild relative _Manihot glaziovii_ on yield and fitness.
+I was fortunate to collaborate with the cassava breeding team at the International Institute of Tropical Agriculture, Ibadan, Nigeria for this work.
 
 Contact me
 ------
