@@ -86,13 +86,13 @@ author:
   location         : "Breinigsville, PA, USA"
   employer         : "Cornell University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=seren+villwock"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  googlescholar    : 
+  email            : "ssv42@cornell.edu"
+  researchgate     : 
+  uri              : #note: edit CV link in _data/navigation.yml
   bitbucket        :
   codepen          :
-  dribbble         :
+  dribbble         : 
   flickr           :
   facebook         :
   foursquare       :
