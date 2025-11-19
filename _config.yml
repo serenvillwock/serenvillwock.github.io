@@ -84,7 +84,7 @@ author:
   avatar           : "profile_pic_cropped.jpeg" #Or: "headshot22.jpg"
   bio              : "Postdoctoral research associate in plant breeding & genetics"
   location         : 
-  employer         : "Cornell University \n Institute of Biotechnology"
+  employer         : "Cornell University<br>Institute of Biotechnology"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=seren+villwock"
   googlescholar    : 
   email            : "ssv42@cornell.edu"
